@@ -1,0 +1,7 @@
+{
+  "name": "ManuTrack: Inward & Outward Register",
+  "description": "A comprehensive manufacturing logistics management system with advanced image processing capabilities using Gemini 2.5 Flash for document and item photo editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
